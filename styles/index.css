@@ -38,3 +38,24 @@ h1, h2 {
   font-weight: 300;
   line-height: 1.2;
 }
+
+.email {
+  color: #333;
+  text-decoration: none;
+}
+
+.email:hover {
+  cursor: pointer;
+  color: #fff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
