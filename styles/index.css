@@ -24,3 +24,12 @@ body {
   padding: 0 20px;
   flex-basis: 80%;
 }
+
+.title {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  border-radius: 50%;
+}
