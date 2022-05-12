@@ -1,0 +1,26 @@
+@import url('http://fonts.cdnfonts.com/css/gilroy-bold');
+
+body {
+  font-family: 'Gilroy-Regular', sans-serif;
+  background-color: #ddd;
+  color: #333;
+  line-height: 1.6;
+  width: 60%;
+  margin: auto;
+}
+
+#container {
+  display: flex;
+}
+
+#left-section {
+  background-color: peachpuff;
+  padding: 0 20px;
+  flex-basis: 20%;
+}
+
+#right-section {
+  background-color: #fff;
+  padding: 0 20px;
+  flex-basis: 80%;
+}
