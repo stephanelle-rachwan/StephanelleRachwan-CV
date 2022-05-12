@@ -1,4 +1,4 @@
-@import url('http://fonts.cdnfonts.com/css/gilroy-bold');
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
 
 body {
   font-family: 'Gilroy-Regular', sans-serif;
@@ -29,7 +29,12 @@ body {
   text-align: center;
 }
 
-img {
+.picture img {
   width: 100%;
   border-radius: 50%;
+}
+
+h1, h2 {
+  font-weight: 300;
+  line-height: 1.2;
 }
